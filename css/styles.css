@@ -5,6 +5,10 @@ p{
 color: white;
 font-family: arial;
 font-size: 25px; }
+ .logo {
+	  border-radius: 50%;
+ }
+
  h1 {
 	 color:white;
 	 font-family: arial;
@@ -13,6 +17,7 @@ font-size: 25px; }
 	 color:white;
 	 font-family: arial;
  }
-
-
-	
+ li {
+	 color: white;
+	 font-family: arial;
+ }
